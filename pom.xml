@@ -37,12 +37,4 @@
         </plugins>
     </build>
 
-    <distributionManagement>
-        <repository>
-            <uniqueVersion>false</uniqueVersion>
-            <id>myMavenRepo.write</id>
-            <url>https://mymavenrepo.com/repo/PNn3mr7Og6Gdw9OhnwRL</url>
-            <layout>internal</layout>
-        </repository>
-    </distributionManagement>
-</project>
+    
